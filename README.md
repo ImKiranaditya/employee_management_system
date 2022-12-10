@@ -1,5 +1,11 @@
 # employee_management_system
 This repository provides functionality for adding , deleting , searching , and updating employees.
+## Technologies used
+1.  **Spring Boot MVC**
+2.  **Thyemeleaf**
+3.  **Bootstrap**
+4.  **jQuery Datatables**
+
 ## Features
 
 - Add employee
